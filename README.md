@@ -26,8 +26,14 @@ In the initial preparation phase, I performed the following tasks;
 EDA involved exploring the sales data to answer key questions, such as;
 1.	What is the overall sales trend?
 2.	What is the monthly sales trend?
-3.	Which towns are the top sellers?
+3.	Which property type is the best seller?
 4.	What are the peak sales periods?
+
+![Capture 1](https://github.com/Enioladayo/Real-estate-Sales-Review/assets/168915281/9da68ba8-89e4-49d6-99e3-1748929d012b)  ![Capture12](https://github.com/Enioladayo/Real-estate-Sales-Review/assets/168915281/90bfe3f9-0224-445e-af9a-ea69373db422)  ![Dashboard ](https://github.com/Enioladayo/Real-estate-Sales-Review/assets/168915281/32e706ad-a933-4da1-b57c-4a8a6b7c10aa)
+
+
+
+
 
 ### Results/findings
 
