@@ -10,8 +10,8 @@ The primary data set used for this analysis is the “Real_Estate_Sales_2001-202
 
 ### Tools
 
-Excel – Data Cleaning
-Tableau – Creating reports
+- Excel – Data Cleaning
+- Tableau – Creating reports [View here](https://public.tableau.com/views/dashboardrealestate/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ### Data cleaning /preparation
